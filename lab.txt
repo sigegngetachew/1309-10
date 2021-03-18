@@ -4,3 +4,4 @@ id:
 year:
 section :
 semister:
+GIT IN VSC
